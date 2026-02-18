@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "no_json": 60,
+    "invalid_schema": 0,
+    "wrong_services": 43,
+    "wrong_effect": 4,
+    "correct": 44
+  }
+}

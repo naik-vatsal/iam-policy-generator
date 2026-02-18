@@ -1,0 +1,10 @@
+{
+  "config": "A - balanced",
+  "lr": 0.0002,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "epochs": 3,
+  "batch_size": "4 x 4 = 16",
+  "final_train_loss": 0.1521889567375183,
+  "best_eval_loss": 0.30187493562698364
+}

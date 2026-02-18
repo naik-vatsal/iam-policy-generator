@@ -1,0 +1,44 @@
+{
+  "zero_shot": {
+    "label": "Zero-Shot",
+    "total": 151,
+    "json_valid": 1,
+    "json_extracted": 120,
+    "schema_valid": 119,
+    "service_accuracy_sum": 34.42020210783369,
+    "effect_accuracy_sum": 118.0,
+    "json_valid_rate": 0.6622516556291391,
+    "json_extracted_rate": 79.47019867549669,
+    "schema_valid_rate": 78.80794701986756,
+    "service_accuracy": 28.683501756528074,
+    "effect_accuracy": 98.33333333333333
+  },
+  "few_shot": {
+    "label": "Few-Shot",
+    "total": 151,
+    "json_valid": 3,
+    "json_extracted": 11,
+    "schema_valid": 11,
+    "service_accuracy_sum": 0.0,
+    "effect_accuracy_sum": 11.0,
+    "json_valid_rate": 1.9867549668874174,
+    "json_extracted_rate": 7.28476821192053,
+    "schema_valid_rate": 7.28476821192053,
+    "service_accuracy": 0.0,
+    "effect_accuracy": 100.0
+  },
+  "finetuned": {
+    "label": "Fine-Tuned",
+    "total": 151,
+    "json_valid": 91,
+    "json_extracted": 91,
+    "schema_valid": 91,
+    "service_accuracy_sum": 47.318141945773526,
+    "effect_accuracy_sum": 87.0,
+    "json_valid_rate": 60.264900662251655,
+    "json_extracted_rate": 60.264900662251655,
+    "schema_valid_rate": 60.264900662251655,
+    "service_accuracy": 51.997958182168716,
+    "effect_accuracy": 95.6043956043956
+  }
+}
