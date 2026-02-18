@@ -25,3 +25,4 @@ report/
 results/config_b/final_model/adapter_model.safetensors
 results/config_c/final_model/adapter_model.safetensors
 results/config_d/final_model/adapter_model.safetensors
+*.safetensors
